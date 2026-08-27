@@ -68,7 +68,7 @@ My collection of Python problem-solving and logical-thinking exercises.
 
 ### 🌐 Jujutsu Kaisen Explorer
 
-###https://jujutsukaisenexplorer.netlify.app/
+**Live Website:**//jujutsukaisenexplorer.netlify.app/
 
 An earlier web development project that helped me start learning HTML, CSS, JavaScript, GitHub, and deployment.
 
