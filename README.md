@@ -33,7 +33,6 @@ When I don't know how to implement something, I discover the solution, understan
 * Python
 * Java
 * C
-* JavaScript
 
 ### Web Development
 
