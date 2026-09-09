@@ -1,93 +1,82 @@
 # Hi, I'm Mahesh Babu 👋
 
-### CSE Student | Developer in Progress | Learning by Building
+### CSE Student | Developer | Problem Solver
 
-I'm a Diploma in Computer Science Engineering student interested in software development, problem solving, and building real projects.
+I'm a Diploma in Computer Science Engineering student focused on building software, strengthening programming fundamentals, and learning through practical projects.
 
-I learn by **building, experimenting, discovering solutions, and continuously improving what I create.**
+I learn by building things, solving unfamiliar problems, debugging my own mistakes, and improving what I create.
 
-## 🚀 What I'm Building
+## 🚀 Featured Project
 
-### [TermRunway](https://github.com/maheshbabuboyidapu-alt/TermRunway)
+### TermRunway
 
-My main long-term project.
+A student-focused budget planning web application for understanding income, expenses, remaining balance, and daily spending limits.
 
-🌐 **Live Website:** https://termrunway.netlify.app/
+🌐 **Live:** https://termrunway.netlify.app/
 
-TermRunway is a continuously evolving student-focused project. I am developing it step by step, adding useful features, improving the user experience, and learning new technologies along the way.
+**Repository:** https://github.com/maheshbabuboyidapu-alt/TermRunway
 
-## 🧠 How I Learn
+## 🧠 Problem Solving
+
+### Problem-Solving-Logic
+
+A structured record of my Python problem-solving practice.
+
+The repository focuses on applying programming concepts to unfamiliar, real-world-style problems while improving reasoning, validation, data processing, code quality, and solution design.
+
+**Repository:** https://github.com/maheshbabuboyidapu-alt/Problem-Solving-Logic
+
+## 💻 Current Skills
+
+**Languages**
+
+Python · Java · C
+
+**Web**
+
+HTML · CSS · JavaScript
+
+**Tools**
+
+Git · GitHub · VS Code · Netlify
+
+**Currently Exploring**
+
+APIs · Backend Development · Databases · TypeScript · Full-Stack Development · AI Integration
+
+## 🔨 What I'm Working On
+
+- Building and improving practical web applications
+- Strengthening programming and problem-solving fundamentals
+- Learning backend development and databases
+- Understanding software engineering practices through real projects
+- Exploring how AI can be integrated into software systems
+
+## 📌 Selected Projects
+
+| Project | Focus |
+| --- | --- |
+| [TermRunway](https://github.com/maheshbabuboyidapu-alt/TermRunway) | Student budget planning web app |
+| [Problem-Solving-Logic](https://github.com/maheshbabuboyidapu-alt/Problem-Solving-Logic) | Python problem-solving practice |
+| [JJK](https://github.com/maheshbabuboyidapu-alt/jjk) | Web development and deployment practice |
+| [RESUP](https://github.com/maheshbabuboyidapu-alt/RESUP) | React + TypeScript resume and career workspace |
+
+## 🌱 Development Approach
 
 I don't try to learn everything before starting a project.
 
-My approach is:
+My approach is simple:
 
-**Idea → Build → Problem → Research → Learn → Implement → Improve**
+**Build → Encounter a Problem → Research → Understand → Implement → Test → Improve**
 
-When I don't know how to implement something, I discover the solution, understand it, and use that knowledge to move the project forward.
+My repositories document that progression over time. Early projects show where I started; newer projects show how my programming and engineering practices are developing.
 
-## 💻 Technologies
+## 🎯 Long-Term Direction
 
-### Programming Languages
+I'm interested in software engineering and AI systems. Over time, I want to develop the programming, system-design, and engineering foundation needed to research and build more advanced AI-based software.
 
-* Python
-* Java
-* C
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Netlify
-
-### Currently Exploring
-
-* APIs
-* Backend Development
-* Databases
-* AI & API Integration
-* Full-Stack Development
-
-## 📂 My Projects
-
-### 🚀 TermRunway
-
-My main continuously evolving project and the biggest part of my current development journey.
-
-### 🧠 Problem-Solving-Logic
-
-My collection of Python problem-solving and logical-thinking exercises.
-
-### 🌐 Jujutsu Kaisen Explorer
-
-**Live Website:** https://jujutsukaisenexplorer.netlify.app/
-
-An earlier web development project that helped me start learning HTML, CSS, JavaScript, GitHub, and deployment.
-
-## 🎯 My Current Focus
-
-**Problem Solving + Programming Fundamentals + Real Projects + Continuous Learning**
-
-Right now, I am focusing on strengthening my programming foundations and developing real projects.
-
-After completing my semester studies, I plan to move into a more focused **Full-Stack Development** learning phase.
-
-## 🌱 My Journey
-
-I'm still at the beginning of my developer journey.
-
-This GitHub profile is a record of my progress as I learn, build, experiment, make mistakes, discover solutions, and improve.
-
-> **I don't need to know everything before I start.
-> I need to know how to learn what I need to build.**
+For now, my focus is on becoming a stronger programmer by consistently building, solving problems, and learning from real implementation work.
 
 ---
 
-### 🚀 Building Today. Learning Every Day. Growing Into a Full-Stack Developer.
+### Building practical software. Strengthening fundamentals. Improving every project.
