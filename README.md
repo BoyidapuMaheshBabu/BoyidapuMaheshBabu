@@ -4,7 +4,7 @@
 
 I'm a Diploma in Computer Science Engineering student focused on building software, strengthening programming fundamentals, and learning through practical projects.
 
-I learn by building things, solving unfamiliar problems, debugging my own mistakes, and improving what I create.
+I learn by building things, solving **new problems I haven't solved before**, debugging my own mistakes, and improving what I create.
 
 ## 🚀 Featured Project
 
@@ -22,7 +22,7 @@ A student-focused budget planning web application for understanding income, expe
 
 A structured record of my Python problem-solving practice.
 
-The repository focuses on applying programming concepts to unfamiliar, real-world-style problems while improving reasoning, validation, data processing, code quality, and solution design.
+The repository focuses on applying programming concepts to **new, real-world-style problems** while improving reasoning, validation, data processing, code quality, and solution design.
 
 **Repository:** https://github.com/maheshbabuboyidapu-alt/Problem-Solving-Logic
 
