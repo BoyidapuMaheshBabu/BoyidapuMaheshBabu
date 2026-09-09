@@ -14,7 +14,7 @@ A student-focused budget planning web application for understanding income, expe
 
 🌐 **Live:** https://termrunway.netlify.app/
 
-**Repository:** https://github.com/maheshbabuboyidapu-alt/TermRunway
+**Repository:** https://github.com/maheshbabuboyidapu/TermRunway
 
 ## 🧠 Problem Solving
 
@@ -24,7 +24,7 @@ A structured record of my Python problem-solving practice.
 
 The repository focuses on applying programming concepts to **new, real-world-style problems** while improving reasoning, validation, data processing, code quality, and solution design.
 
-**Repository:** https://github.com/maheshbabuboyidapu-alt/Problem-Solving-Logic
+**Repository:** https://github.com/maheshbabuboyidapu/Problem-Solving-Logic
 
 ## 💻 Current Skills
 
@@ -56,10 +56,10 @@ APIs · Backend Development · Databases · TypeScript · Full-Stack Development
 
 | Project | Focus |
 | --- | --- |
-| [TermRunway](https://github.com/maheshbabuboyidapu-alt/TermRunway) | Student budget planning web app |
-| [Problem-Solving-Logic](https://github.com/maheshbabuboyidapu-alt/Problem-Solving-Logic) | Python problem-solving practice |
-| [JJK](https://github.com/maheshbabuboyidapu-alt/jjk) | Web development and deployment practice |
-| [RESUP](https://github.com/maheshbabuboyidapu-alt/RESUP) | React + TypeScript resume and career workspace |
+| [TermRunway](https://github.com/maheshbabuboyidapu/TermRunway) | Student budget planning web app |
+| [Problem-Solving-Logic](https://github.com/maheshbabuboyidapu/Problem-Solving-Logic) | Python problem-solving practice |
+| [JJK](https://github.com/maheshbabuboyidapu/jjk) | Web development and deployment practice |
+| [RESUP](https://github.com/maheshbabuboyidapu/RESUP) | React + TypeScript resume and career workspace |
 
 ## 🌱 Development Approach
 
