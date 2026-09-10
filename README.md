@@ -26,28 +26,37 @@ The repository focuses on applying programming concepts to **new, real-world-sty
 
 **Repository:** https://github.com/maheshbabuboyidapu/Problem-Solving-Logic
 
-## 💻 Current Skills
+## 💻 Technical Foundation
 
-**Languages**
+I prefer to describe my skills by **current practice and depth**, rather than presenting every technology as an equal level of proficiency.
 
-Python · Java · C
+### 🐍 Active Practice
 
-**Web**
+**Python** — Actively using Python for programming problem solving and strengthening implementation skills.
 
-HTML · CSS · JavaScript
+### 🧩 Programming Fundamentals
 
-**Tools**
+**Java** — Strong programming fundamentals with the ability to refresh and adapt quickly.
+
+**C** — Foundational programming knowledge; currently not an active practice language, but I can return to it and adapt based on my existing fundamentals.
+
+### 🌐 Web Fundamentals
+
+**HTML** — Foundational understanding of document structure, semantic sections, and the purpose of common elements.
+
+**CSS** — Basic understanding of styling, layout, and presentation.
+
+**JavaScript** — Currently learning; building on existing programming fundamentals from Java and Python.
+
+### 🛠️ Tools & Platforms
 
 Git · GitHub · VS Code · Netlify
-
-**Currently Exploring**
-
-APIs · Backend Development · Databases · TypeScript · Full-Stack Development · AI Integration
 
 ## 🔨 What I'm Working On
 
 - Building and improving practical web applications
 - Strengthening programming and problem-solving fundamentals
+- Solving new programming problems with Python
 - Learning backend development and databases
 - Understanding software engineering practices through real projects
 - Exploring how AI can be integrated into software systems
