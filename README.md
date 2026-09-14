@@ -1,4 +1,4 @@
-# Hi, I'm # Mahesh Babu Boyidapu 👋
+# Hi, I'm Boyidapu Mahesh Babu 👋
 
 ### CSE Student | Problem Solver | Aspiring Software Engineer
 
