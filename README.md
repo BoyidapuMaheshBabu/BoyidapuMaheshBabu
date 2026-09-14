@@ -80,6 +80,31 @@ My approach is simple:
 
 My repositories document that progression over time. Early projects show where I started; newer projects show how my programming and engineering practices are developing.
 
+## 🤖 AI-Assisted Workflow
+
+I use AI as a supporting tool throughout my learning and development, but the role of AI differs depending on the work.
+
+### Problem Solving
+
+For my programming problem-solving practice, I **solve the problems independently**.
+
+I do not use AI to generate the solution code. The reasoning, implementation, testing, and debugging are done by me.
+
+After solving a problem, I may use AI to help with:
+
+* code review and refactoring
+* PEP 8 / formatting improvements
+* documentation
+* improving code readability and maintainability
+
+### Project Development
+
+For application projects, I may use AI more actively as a development tool, including exploring implementations, understanding unfamiliar technologies, debugging, and improving features.
+
+In both cases, I remain responsible for understanding, testing, and validating the final result.
+
+**AI assists my workflow; it does not replace my learning or problem-solving.**
+
 ## 🎯 Long-Term Direction
 
 I'm interested in software engineering and AI systems. Over time, I want to develop the programming, system-design, and engineering foundation needed to research and build more advanced AI-based software.
