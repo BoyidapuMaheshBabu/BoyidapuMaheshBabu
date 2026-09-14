@@ -1,6 +1,6 @@
 # Hi, I'm Mahesh Babu 👋
 
-### CSE Student | Developer | Problem Solver
+###CSE Student | Problem Solver | Aspiring Software Engineer
 
 I'm a Diploma in Computer Science Engineering student focused on building software, strengthening programming fundamentals, and learning through practical projects.
 
