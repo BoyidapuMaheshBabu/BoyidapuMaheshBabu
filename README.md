@@ -57,20 +57,20 @@ I aim to understand, test, and learn from the code I use rather than treating AI
 
 ## 💻 Current Technical Foundation
 
-### Active Practice
+### 🟢 Active Practice
 
 **Python** — Actively strengthening Python through independent problem solving and practical implementation.
 
-### Programming
+### 🧩 Programming Fundamentals
 
 **Java** — Programming fundamentals and object-oriented programming.  
 **C** — Foundational programming knowledge.
 
-### Web Development
+### 🌐 Web Development
 
 **HTML** · **CSS** · **JavaScript** — Practical frontend experience through projects, with continued learning and improvement.
 
-### Tools
+### 🛠️ Tools
 
 Git · GitHub · VS Code · Netlify
 
