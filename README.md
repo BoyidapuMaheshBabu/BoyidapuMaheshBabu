@@ -1,123 +1,86 @@
 # Hi, I'm Boyidapu Mahesh Babu 👋
 
-### CSE Student | Problem Solver | Aspiring Software Engineer
+### Diploma CSE Student | Problem Solving | Aspiring Software Engineer
 
-I'm a Diploma in Computer Science Engineering student interested in software engineering, practical problem solving, and learning how software is built through real implementation.
+I'm a Diploma in Computer Science Engineering student building my programming and software-engineering skills through **problem solving and practical projects**.
 
-I learn primarily by **building things, encountering problems, and learning what is needed to solve them** rather than trying to learn every technology in advance.
+> **Build. Encounter problems. Learn. Implement. Test. Improve.**
 
-My repositories document that progression.
-
-## 🚀 Featured Project
-
-### [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway)
-
-A student-focused budget planning web application for understanding income, expenses, remaining balance, and practical daily spending limits.
-
-🌐 **Live:** https://termrunway.netlify.app/
-
-Built incrementally with AI assistance while exploring application logic, validation, data handling, persistence, and software maintenance.
-
-## 🧠 Problem Solving
-
-### [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)
-
-A structured record of my Python problem-solving practice.
-
-The repository focuses on applying programming concepts to **new problems I have not solved before**, while improving reasoning, validation, data processing, debugging, and code quality.
-
-For this repository, I write the solutions myself.
-
-When a problem requires a concept I have not learned yet, I use AI as a learning tool to understand that concept. After learning it, I return to the problem and develop my own approach and implementation.
-
-## 📌 Selected Projects
+## 🚀 What I'm Building
 
 | Project | Focus | Status |
 | --- | --- | --- |
+| [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) | Python problem solving, reasoning & code improvement | Ongoing |
 | [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
-| [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) | Independent Python problem-solving practice | Ongoing |
-| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend and deployment learning project | Learning record |
-| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume and career workspace prototype | Prototype / exploration |
+| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
+| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
 
-## 🛠️ How I Learn Through Projects
+## 🧠 Problem Solving
 
-My project-based learning usually follows this pattern:
+[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) is my structured Python practice repository.
+
+I use it to solve **new problems independently**, strengthen programming reasoning, and improve validation, data processing, debugging, and code quality.
+
+When I encounter a concept I have not learned, I may use AI to understand that concept. I then return to the problem and develop my own approach and implementation.
+
+## 🛠️ How I Learn
+
+I use projects and problems as opportunities to learn rather than trying to master every technology before building.
 
 ```text
-Build
-  ↓
+Build / Solve
+      ↓
 Encounter something unfamiliar
-  ↓
-Research and learn
-  ↓
-Understand the concept or tool
-  ↓
+      ↓
+Learn and research
+      ↓
+Understand
+      ↓
 Implement
-  ↓
-Test and debug
-  ↓
+      ↓
+Test & debug
+      ↓
 Improve
 ```
 
-The purpose of building a project is not only to finish the application. Each project gives me a reason to learn something I did not know before.
+The projects on this profile represent different stages of that process.
 
-## 🤖 How I Use AI
+## 🤖 AI in My Workflow
 
-I use AI as both a **learning assistant and development tool**, but the role depends on the work.
+AI is a tool in my learning and development workflow, but its role depends on the project.
 
-### Problem Solving
+- **Problem solving:** I develop the final solutions independently.
+- **Project development:** AI may assist with implementation, debugging, exploration, and iteration.
+- **Prototype exploration:** Some projects are heavily AI-assisted and are clearly identified as prototypes rather than presented as manually written production software.
 
-For my programming problem-solving practice, I solve the problems independently.
-
-I do not use AI to generate the final solution code.
-
-When I encounter an unfamiliar concept, I may use AI to learn and understand that specific concept before returning to the problem and solving it myself.
-
-### Project Development
-
-For application projects, I use AI more actively.
-
-Depending on the project, AI may help me explore unfamiliar technologies, generate or modify implementation code, understand errors, structure features, and iterate on the application.
-
-Some projects are more heavily AI-assisted than others, and I describe their stage accordingly rather than presenting them all as manually written software.
-
-I remain responsible for understanding what I use, testing the result, and learning from the implementation.
+I aim to understand, test, and learn from the code I use rather than treating AI output as a substitute for learning.
 
 ## 💻 Current Technical Foundation
 
-I prefer to describe my skills according to my **current practice and depth** rather than presenting every technology as an equal level of proficiency.
-
 ### Active Practice
 
-**Python** — Actively practicing Python through independent programming problems and gradually strengthening implementation skills.
+**Python** — Actively strengthening Python through independent problem solving and practical implementation.
 
-### Programming Fundamentals
+### Programming
 
-**Java** — Programming fundamentals and object-oriented programming experience.
-
+**Java** — Programming fundamentals and object-oriented programming.  
 **C** — Foundational programming knowledge.
 
 ### Web Development
 
-**HTML** — Fundamental understanding of document structure and semantic elements.
+**HTML** · **CSS** · **JavaScript** — Practical frontend experience through projects, with continued learning and improvement.
 
-**CSS** — Basic understanding of styling, layout, and responsive presentation.
-
-**JavaScript** — Learning and applying JavaScript through practical web projects.
-
-### Tools & Platforms
+### Tools
 
 Git · GitHub · VS Code · Netlify
 
 ## 🎯 Current Direction
 
-My current priority is to strengthen programming fundamentals while continuing to build practical software and explore unfamiliar technologies.
+My current priority is strengthening programming fundamentals and becoming more capable of building, understanding, debugging, and improving software independently.
 
-As my coding ability grows, I want to become increasingly capable of understanding, modifying, debugging, designing, and implementing larger parts of the software I build.
+My next major learning direction is **DSA and deeper software-development skills**, alongside practical project work and preparation for internship opportunities.
 
-I'm interested in software engineering and, over time, AI-based software systems.
-
-For now, I am focused on building a strong foundation and learning consistently through real implementation.
+Over time, I want to grow toward **software engineering and AI-based software systems**.
 
 ---
 
