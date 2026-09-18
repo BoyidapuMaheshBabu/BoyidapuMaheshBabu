@@ -10,7 +10,6 @@ I'm a Diploma in Computer Science Engineering student building my programming an
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) | Python problem solving, reasoning & code improvement | Ongoing |
 | [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
 | [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
