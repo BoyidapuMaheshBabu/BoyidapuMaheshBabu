@@ -11,6 +11,7 @@ I'm a Diploma in Computer Science Engineering student building my programming an
 | Project | Focus | Status |
 | --- | --- | --- |
 | [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
+| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native Android version of TermRunway | Active development |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
 | [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
 
@@ -68,6 +69,10 @@ I aim to understand, test, and learn from the code I use rather than treating AI
 ### 🌐 Web Development
 
 **HTML** · **CSS** · **JavaScript** — Practical frontend experience through projects, with continued learning and improvement.
+
+### 📱 Android Development
+
+**Kotlin** · **Jetpack Compose** · **Material 3** — Building TermRunway as a native Android application.
 
 ### 🛠️ Tools
 
