@@ -61,9 +61,13 @@ I aim to understand, test, and learn from the code I use rather than treating AI
 
 **Python** — Actively strengthening Python through independent problem solving and practical implementation.
 
-### 🌐 Practical Web Experience
+### 🌐 Web Fundamentals
 
-**HTML** · **CSS** · **JavaScript** — Practical frontend experience gained through projects and continued hands-on development.
+**HTML** — Understand structure, purpose, and how it works.
+
+**CSS** — Understand styling, layout, and how it works.
+
+**JavaScript** — Understand its role and importance in interactive web applications; currently developing hands-on skills.
 
 ### 🛠️ Development Workflow
 
