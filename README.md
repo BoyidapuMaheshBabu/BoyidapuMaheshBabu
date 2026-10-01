@@ -8,12 +8,12 @@ I'm a Diploma in Computer Science Engineering student building my programming an
 
 ## 🚀 What I'm Building
 
-| Project | Why I'm Using It | Status |
+| Project | Focus | Status |
 | --- | --- | --- |
-| [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | My main product-building project for learning problem solving, product thinking, implementation, testing, and iteration through a real student budgeting problem. | Active development |
-| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Building a working Android version of TermRunway. I learn the technologies required by the product instead of learning them separately just to list them as skills. | Active development |
-| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Exploring a resume and career workspace idea while learning how AI-assisted development can be used to prototype a real product concept. | Prototype / exploration |
-| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | A previous project I use as a record of my frontend and deployment learning. | Learning record |
+| [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
+| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native Android version of TermRunway | Active development |
+| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
+| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
 
 ## 🧠 Problem Solving
 
