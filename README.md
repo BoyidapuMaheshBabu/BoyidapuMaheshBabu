@@ -8,12 +8,12 @@ I'm a Diploma in Computer Science Engineering student building my programming an
 
 ## 🚀 What I'm Building
 
-| Project | Focus | Status |
+| Project | Why I'm Using It | Status |
 | --- | --- | --- |
-| [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
-| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native Android version of TermRunway | Active development |
-| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
-| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
+| [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | My main product-building project for learning problem solving, product thinking, implementation, testing, and iteration through a real student budgeting problem. | Active development |
+| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Building a working Android version of TermRunway. I learn the technologies required by the product instead of learning them separately just to list them as skills. | Active development |
+| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Exploring a resume and career workspace idea while learning how AI-assisted development can be used to prototype a real product concept. | Prototype / exploration |
+| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | A previous project I use as a record of my frontend and deployment learning. | Learning record |
 
 ## 🧠 Problem Solving
 
@@ -57,26 +57,23 @@ I aim to understand, test, and learn from the code I use rather than treating AI
 
 ## 💻 Current Technical Foundation
 
-### 🟢 Active Practice
+### 🟢 Actively Developing
 
 **Python** — Actively strengthening Python through independent problem solving and practical implementation.
 
-### 🧩 Programming Fundamentals
+### 🌐 Practical Web Experience
 
-**Java** — Programming fundamentals and object-oriented programming.  
-**C** — Foundational programming knowledge.
+**HTML** · **CSS** · **JavaScript** — Practical frontend experience gained through projects and continued hands-on development.
 
-### 🌐 Web Development
+### 🛠️ Development Workflow
 
-**HTML** · **CSS** · **JavaScript** — Practical frontend experience through projects, with continued learning and improvement.
+**Git** · **GitHub** · **VS Code** — Tools I use for development, version control, and project work.
 
-### 📱 Android Development
+## 🔧 Technologies Used in Current Product Work
 
-**Kotlin** · **Jetpack Compose** · **Material 3** — Building TermRunway as a native Android application.
+**Kotlin** · **Jetpack Compose** · **Android**
 
-### 🛠️ Tools
-
-Git · GitHub · VS Code · Netlify
+These are technologies I am currently using while building **TermRunway Android**. I am not presenting them as separately mastered skills; I learn and apply what the product requires.
 
 ## 🎯 Current Direction
 
