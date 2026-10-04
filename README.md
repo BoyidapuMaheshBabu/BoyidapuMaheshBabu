@@ -6,14 +6,20 @@
 
 I'm a Diploma CSE student building software-engineering skills through **problem solving, practical projects, and iterative product development**.
 
-## 🚀 What I'm Building
+## 🚀 Projects & Product Work
 
 | Project | Focus | Status |
 |---|---|---|
 | [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Offline-first Android student finance app | **Current product** |
-| [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap & development knowledge | **Product knowledge base** |
-| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype | Historical |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Exploration |
+| [Jujutsu Kaisen Explorer](https://github.com/BoyidapuMaheshBabu/jjk) | My first website and frontend learning project | **Completed learning project** |
+| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original TermRunway web prototype | Historical / Archived |
+
+## 📚 Product & Engineering Documentation
+
+| Repository | Purpose |
+|---|---|
+| [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap, phases & development knowledge |
 
 ## 🧠 Engineering Practice
 
