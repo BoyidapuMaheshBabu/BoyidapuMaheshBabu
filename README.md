@@ -23,7 +23,7 @@ I don't try to make my profile look bigger than it is. I prefer to show **what I
 |---|---|
 | [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap, phases & development knowledge |
 
-## 🧠 Engineering Practice
+## 🧠 Problem Solving & Programming Practice
 
 **[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
 
