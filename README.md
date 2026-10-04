@@ -1,94 +1,50 @@
 # Hi, I'm Boyidapu Mahesh Babu 👋
 
-### Diploma CSE Student | Problem Solving | Aspiring Software Engineer
+### Diploma CSE Student · Problem Solving · Product Building
 
-I'm a Diploma in Computer Science Engineering student building my programming and software-engineering skills through **problem solving and practical projects**.
+> **Understand → Build → Test → Improve**
 
-> **Build. Encounter problems. Learn. Implement. Test. Improve.**
+I'm a Diploma CSE student building software-engineering skills through **problem solving, practical projects, and iterative product development**.
 
 ## 🚀 What I'm Building
 
 | Project | Focus | Status |
-| --- | --- | --- |
-| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native offline-first Android student finance app | **Current product** |
-| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype that led to TermRunway Android | Discontinued / historical prototype |
-| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
-| [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
+|---|---|---|
+| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Offline-first Android student finance app | **Current product** |
+| [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap & development knowledge | **Product knowledge base** |
+| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype | Historical |
+| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Exploration |
+| [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) | Independent Python problem solving | Active practice |
 
-**TermRunway's current direction:** the Android version is the active product. The web repository is preserved separately as the original prototype and product-evolution record.
+## 🧭 How I Work
 
-## 🧠 Problem Solving
+**Problem → Research → Decide → Document → Build → Test → Review → Improve**
 
-[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) is my structured Python practice repository.
+I prefer building around a real problem, understanding unfamiliar concepts when they become necessary, and validating the result rather than learning technologies only through tutorials.
 
-I use it to solve **new problems independently**, strengthen programming reasoning, and improve validation, data processing, debugging, and code quality.
+## 🤖 AI-Assisted Development
 
-When I encounter a concept I have not learned, I may use AI to understand that concept. I then return to the problem and develop my own approach and implementation.
+AI is part of my development workflow as an **accelerator and learning assistant**.
 
-## 🛠️ How I Learn
+- 🧠 I define problems and make product decisions.
+- 🛠️ AI can assist with implementation, debugging, research, and iteration.
+- 🧪 I review behavior, test the product, and validate results.
+- 📚 Important decisions are documented so the project remains understandable beyond any single AI session.
 
-I use projects and problems as opportunities to learn rather than trying to master every technology before building.
+> **AI accelerates the work. I remain responsible for what gets built and whether it is correct.**
 
-```text
-Build / Solve
-      ↓
-Encounter something unfamiliar
-      ↓
-Learn and research
-      ↓
-Understand
-      ↓
-Implement
-      ↓
-Test & debug
-      ↓
-Improve
-```
+## 🛠️ Current Technical Foundation
 
-The projects on this profile represent different stages of that process.
+**Languages:** Java · Python · C · Kotlin
 
-## 🤖 AI in My Workflow
+**Android:** Kotlin · Jetpack Compose · Material 3 · Android Studio
 
-AI is a tool in my learning and development workflow, but its role depends on the project.
+**Web:** HTML · CSS · JavaScript fundamentals
 
-- **Problem solving:** I develop the final solutions independently.
-- **Project development:** AI may assist with implementation, debugging, exploration, and iteration.
-- **Prototype exploration:** Some projects are heavily AI-assisted and are clearly identified as prototypes rather than presented as manually written production software.
-
-I aim to understand, test, and learn from the code I use rather than treating AI output as a substitute for learning.
-
-## 💻 Current Technical Foundation
-
-### 🟢 Actively Developing
-
-**Python** — Actively strengthening Python through independent problem solving and practical implementation.
-
-### 🌐 Web Fundamentals
-
-**HTML** — Understand structure, purpose, and how it works.
-
-**CSS** — Understand styling, layout, and how it works.
-
-**JavaScript** — Understand its role and importance in interactive web applications; currently developing hands-on skills.
-
-### 📱 Current Product Technologies
-
-**Kotlin** · **Jetpack Compose** · **Android**
-
-These are technologies I am currently using while building **TermRunway Android**. I am not presenting them as separately mastered skills; I learn and apply what the product requires.
-
-### 🛠️ Development Workflow
-
-**Git** · **GitHub** · **VS Code** — Tools I use for development, version control, and project work.
+**Tools:** Git · GitHub · AI-assisted development workflows
 
 ## 🎯 Current Direction
 
-My current priority is strengthening programming fundamentals and becoming more capable of building, understanding, debugging, testing, and improving software independently.
+I'm strengthening **programming fundamentals, DSA, software development, testing, architecture, and product thinking** while building toward internships and real product experience.
 
-I'm also building toward **DSA, deeper software-development skills, internship opportunities, and real product experience**.
-
-Over time, I want to grow toward **software engineering and AI-based software systems**.
-
----
-
-### Building practical software. Strengthening fundamentals. Learning from every problem.
+### Building practical software. Strengthening fundamentals. Learning from every problem. 🚀
