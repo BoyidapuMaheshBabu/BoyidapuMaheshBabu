@@ -10,10 +10,12 @@ I'm a Diploma in Computer Science Engineering student building my programming an
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [TermRunway](https://github.com/BoyidapuMaheshBabu/TermRunway) | Student budget planning web application | Active development |
-| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native Android version of TermRunway | Active development |
+| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Native offline-first Android student finance app | **Current product** |
+| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype that led to TermRunway Android | Discontinued / historical prototype |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Prototype / exploration |
 | [JJK](https://github.com/BoyidapuMaheshBabu/jjk) | Frontend & deployment learning project | Learning record |
+
+**TermRunway's current direction:** the Android version is the active product. The web repository is preserved separately as the original prototype and product-evolution record.
 
 ## 🧠 Problem Solving
 
@@ -69,21 +71,21 @@ I aim to understand, test, and learn from the code I use rather than treating AI
 
 **JavaScript** — Understand its role and importance in interactive web applications; currently developing hands-on skills.
 
-### 🛠️ Development Workflow
-
-**Git** · **GitHub** · **VS Code** — Tools I use for development, version control, and project work.
-
-## 🔧 Technologies Used in Current Product Work
+### 📱 Current Product Technologies
 
 **Kotlin** · **Jetpack Compose** · **Android**
 
 These are technologies I am currently using while building **TermRunway Android**. I am not presenting them as separately mastered skills; I learn and apply what the product requires.
 
+### 🛠️ Development Workflow
+
+**Git** · **GitHub** · **VS Code** — Tools I use for development, version control, and project work.
+
 ## 🎯 Current Direction
 
-My current priority is strengthening programming fundamentals and becoming more capable of building, understanding, debugging, and improving software independently.
+My current priority is strengthening programming fundamentals and becoming more capable of building, understanding, debugging, testing, and improving software independently.
 
-My next major learning direction is **DSA and deeper software-development skills**, alongside practical project work and preparation for internship opportunities.
+I'm also building toward **DSA, deeper software-development skills, internship opportunities, and real product experience**.
 
 Over time, I want to grow toward **software engineering and AI-based software systems**.
 
