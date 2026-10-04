@@ -37,14 +37,14 @@ I prefer to show skills based on **real usage and demonstrated work**, not just 
 
 | Technology | How I use it |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"> **Python** | Hands-on problem solving and programming practice |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="Java"> **Java** | Academic programming and OOP practice |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"> **C** | Academic programming and core programming fundamentals |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML"> **HTML** | Strong conceptual understanding and practical website building |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS"> **CSS** | Used in projects for styling, layout, and responsive UI |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript"> **JavaScript** | Used in web projects for interaction, logic, and functionality |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24" height="24" alt="Kotlin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" height="24" alt="Android"> **Kotlin / Android / Jetpack Compose** | Currently learning through TermRunway by building a real Android application |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"> **Git / GitHub** | Source control, branches, repository organization, and documentation |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Hands-on problem solving and programming practice |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Java** | Academic programming and OOP practice |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C** | Academic programming and core programming fundamentals |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML** | Strong conceptual understanding and practical website building |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | Used in projects for styling, layout, and responsive UI |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Used in web projects for interaction, logic, and functionality |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) **Kotlin / Android / Jetpack Compose** | Currently learning through TermRunway by building a real Android application |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **Git / GitHub** | Source control, branches, repository organization, and documentation |
 | **AI-assisted development** | Used as an implementation, debugging, research, and learning accelerator |
 
 > **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test the result, and keep improving.
