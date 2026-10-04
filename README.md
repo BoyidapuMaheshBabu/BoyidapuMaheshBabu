@@ -4,7 +4,7 @@
 
 > **Understand → Build → Test → Improve**
 
-I'm a Diploma CSE student building software-engineering skills through **problem solving, practical projects, and iterative product development**.
+I'm a Diploma CSE student building software-engineering skills through **independent problem solving, practical projects, and iterative product development**.
 
 ## 🚀 Projects & Product Work
 
@@ -23,9 +23,26 @@ I'm a Diploma CSE student building software-engineering skills through **problem
 
 ## 🧠 Engineering Practice
 
-**Problem-Solving-Logic** is maintained as a personal reasoning practice repository, not as a portfolio project. It records independent Python problem solving, including the problem, initial approach, improved solution, concepts used, and lessons learned.
+**[Problem-Solving-Logic → Open Repository](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
 
-> ⏸️ **Temporarily paused** — I am currently concentrating my learning and engineering effort on TermRunway. The practice will resume after the current TermRunway development cycle; the repository is not discontinued.
+A personal reasoning practice repository focused on **independent Python problem solving**. Each problem records the question, approach, solution, concepts used, improvements, and lessons learned.
+
+> ⏸️ **Temporarily paused** — I am currently concentrating my learning and engineering effort on TermRunway. The practice is not discontinued and will be resumed after the current TermRunway development cycle.
+
+## 🧩 Skills & Technology Exposure
+
+I prefer to represent what I can **actually demonstrate today**, rather than listing every technology used in a project as a skill.
+
+| Area | Evidence-based level |
+|---|---|
+| 🐍 **Python** | Strongest current practical foundation through independent problem-solving practice |
+| ☕ **Java** | Hands-on coding practice through academic work |
+| ⚙️ **C** | Hands-on coding practice through academic work |
+| 🌐 **HTML** | Strong conceptual understanding, including tags and core concepts |
+| 📱 **Kotlin / Android / Jetpack Compose** | Currently learning through TermRunway; implementation is AI-assisted, so I do not present this as advanced manual-coding proficiency |
+| 🎨 **CSS / JavaScript** | Project exposure and working familiarity; not presented as advanced manual-coding proficiency |
+| 🧰 **Git / GitHub** | Used for source control, branches, repository organization, and documentation |
+| 🤖 **AI-assisted development** | Used as an implementation, debugging, research, and learning accelerator |
 
 ## 🧭 How I Work
 
@@ -38,24 +55,16 @@ I prefer building around a real problem, understanding unfamiliar concepts when 
 AI is part of my development workflow as an **accelerator and learning assistant**.
 
 - 🧠 I define problems and make product decisions.
-- 🛠️ AI can assist with implementation, debugging, research, and iteration.
+- 🛠️ AI assists with implementation, debugging, research, and iteration.
 - 🧪 I review behavior, test the product, and validate results.
 - 📚 Important decisions are documented so the project remains understandable beyond any single AI session.
 
 > **AI accelerates the work. I remain responsible for what gets built and whether it is correct.**
 
-## 🛠️ Current Technical Foundation
+## 🎯 Current Focus
 
-**Languages:** Java · Python · C · Kotlin
+Right now, my main focus is **building and validating TermRunway** while continuing to strengthen **programming reasoning and independent problem solving**.
 
-**Android:** Kotlin · Jetpack Compose · Material 3 · Android Studio
+The Problem-Solving-Logic repository records the problem-solving work I have already completed and will continue to grow when I return to that practice.
 
-**Web:** HTML · CSS · JavaScript fundamentals
-
-**Tools:** Git · GitHub · AI-assisted development workflows
-
-## 🎯 Current Direction
-
-I'm strengthening **programming fundamentals, DSA, software development, testing, architecture, and product thinking** while building toward internships and real product experience.
-
-### Building practical software. Strengthening fundamentals. Learning from every problem. 🚀
+### Building practical software. Strengthening reasoning. Learning from real problems. 🚀
