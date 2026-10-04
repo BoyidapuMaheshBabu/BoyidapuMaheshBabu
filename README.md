@@ -14,7 +14,12 @@ I'm a Diploma CSE student building software-engineering skills through **problem
 | [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap & development knowledge | **Product knowledge base** |
 | [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype | Historical |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Exploration |
-| [Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic) | Independent Python problem solving | Active practice |
+
+## 🧠 Engineering Practice
+
+**Problem-Solving-Logic** is maintained as a personal reasoning practice repository, not as a portfolio project. It records independent Python problem solving, including the problem, initial approach, improved solution, concepts used, and lessons learned.
+
+> ⏸️ **Temporarily paused** — I am currently concentrating my learning and engineering effort on TermRunway. The practice will resume after the current TermRunway development cycle; the repository is not discontinued.
 
 ## 🧭 How I Work
 
