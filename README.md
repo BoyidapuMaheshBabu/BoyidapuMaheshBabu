@@ -45,7 +45,7 @@ I prefer to show skills based on **real usage and demonstrated work**, not just 
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Used in web projects for interaction, logic, and functionality |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | Currently learning through TermRunway by building a real Android application |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Source control, branches, repository organization, and documentation |
-| **AI-assisted development** | Used as an implementation, debugging, research, and learning accelerator |
+| ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white) | Used as an implementation, debugging, research, and learning accelerator |
 
 > **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test the result, and keep improving.
 
