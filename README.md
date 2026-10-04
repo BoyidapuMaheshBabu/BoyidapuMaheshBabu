@@ -1,6 +1,6 @@
 # Hi, I'm Boyidapu Mahesh Babu 👋
 
-### Diploma CSE Student · Problem Solving · Product Building
+### Diploma CSE Student · Aspiring Software Engineer · Problem Solving · Product Building
 
 > **Understand → Build → Test → Improve**
 
