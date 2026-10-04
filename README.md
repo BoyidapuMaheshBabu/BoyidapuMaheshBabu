@@ -31,21 +31,21 @@ A personal reasoning practice repository focused on **independent Python problem
 
 > ⏸️ **Temporarily paused** — I am currently concentrating my learning and engineering effort on TermRunway. The practice is not discontinued and will be resumed after the current TermRunway development cycle.
 
-## 🧩 Skills & Technologies
+## Skills & Technologies
 
 I prefer to show skills based on **real usage and demonstrated work**, not just because a technology appears somewhere in a project.
 
 | Technology | How I use it |
 |---|---|
-| 🐍 **Python** | Hands-on problem solving and programming practice |
-| ☕ **Java** | Academic programming and OOP practice |
-| ⚙️ **C** | Academic programming and core programming fundamentals |
-| 🌐 **HTML** | Strong conceptual understanding and practical website building |
-| 🎨 **CSS** | Used in projects for styling, layout, and responsive UI |
-| ⚡ **JavaScript** | Used in web projects for interaction, logic, and functionality |
-| 📱 **Kotlin / Android / Jetpack Compose** | Currently learning through TermRunway by building a real Android application |
-| 🧰 **Git / GitHub** | Source control, branches, repository organization, and documentation |
-| 🤖 **AI-assisted development** | Used as an implementation, debugging, research, and learning accelerator |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python"> **Python** | Hands-on problem solving and programming practice |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="Java"> **Java** | Academic programming and OOP practice |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" alt="C"> **C** | Academic programming and core programming fundamentals |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML"> **HTML** | Strong conceptual understanding and practical website building |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS"> **CSS** | Used in projects for styling, layout, and responsive UI |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript"> **JavaScript** | Used in web projects for interaction, logic, and functionality |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24" height="24" alt="Kotlin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="24" height="24" alt="Android"> **Kotlin / Android / Jetpack Compose** | Currently learning through TermRunway by building a real Android application |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub"> **Git / GitHub** | Source control, branches, repository organization, and documentation |
+| **AI-assisted development** | Used as an implementation, debugging, research, and learning accelerator |
 
 > **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test the result, and keep improving.
 
