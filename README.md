@@ -25,7 +25,7 @@ I don't try to make my profile look bigger than it is. I prefer to show **what I
 
 ## 🧠 Engineering Practice
 
-**[Problem-Solving-Logic → Open Repository](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
+**[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
 
 A personal reasoning practice repository focused on **independent Python problem solving**. Each problem records the question, approach, solution, concepts used, improvements, and lessons learned.
 
@@ -47,7 +47,7 @@ I prefer to show skills based on **real usage and demonstrated work**, not just 
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Source control, branches, repository organization, and documentation |
 | ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white) | Used as an implementation, debugging, research, and learning accelerator |
 
-> **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test the result, and keep improving.
+> **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test it, and keep improving.
 
 ## 🧭 How I Work
 
