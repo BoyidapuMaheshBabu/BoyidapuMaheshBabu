@@ -19,9 +19,7 @@ I don't try to make my profile look bigger than it is. I prefer to show **what I
 
 ## 📚 Product & Engineering Documentation
 
-| Repository | Purpose |
-|---|---|
-| [TermRunway-Product](https://github.com/BoyidapuMaheshBabu/TermRunway-Product) | Product research, decisions, roadmap, phases & development knowledge |
+TermRunway's product context, decisions, roadmap, development phases, and AI handoff guidance are maintained alongside the app in the [TermRunway Android documentation](https://github.com/BoyidapuMaheshBabu/TermRunway-Android/blob/main/docs/INDEX.md).
 
 ## 🧠 Problem Solving & Programming Practice
 
