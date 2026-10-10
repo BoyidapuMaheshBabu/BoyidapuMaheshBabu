@@ -17,10 +17,6 @@ I don't try to make my profile look bigger than it is. I prefer to show **what I
 | [Jujutsu Kaisen Explorer](https://github.com/BoyidapuMaheshBabu/jjk) | My first website and frontend learning project | **Completed learning project** |
 | [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original TermRunway web prototype | Historical / Archived |
 
-## 📚 Product & Engineering Documentation
-
-TermRunway's product context, decisions, roadmap, development phases, and AI handoff guidance are maintained alongside the app in the [TermRunway Android documentation](https://github.com/BoyidapuMaheshBabu/TermRunway-Android/blob/main/docs/INDEX.md).
-
 ## 🧠 Problem Solving & Programming Practice
 
 **[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
@@ -42,14 +38,14 @@ I prefer to show skills based on **real usage and demonstrated work**, not just 
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Used in projects for styling, layout, and responsive UI |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Used in web projects for interaction, logic, and functionality |
 | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | Currently learning through TermRunway by building a real Android application |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Source control, branches, repository organization, and documentation |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Source control, branches, and project collaboration |
 | ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white) | Used as an implementation, debugging, research, and learning accelerator |
 
 > **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test it, and keep improving.
 
 ## 🧭 How I Work
 
-**Problem → Research → Decide → Document → Build → Test → Review → Improve**
+**Problem → Research → Decide → Build → Test → Review → Improve**
 
 I prefer building around a real problem, understanding unfamiliar concepts when they become necessary, and validating the result instead of learning technologies only through tutorials.
 
@@ -60,7 +56,6 @@ AI is part of my development workflow as an **accelerator and learning assistant
 - 🧠 I define problems and make product decisions.
 - 🛠️ AI assists with implementation, debugging, research, and iteration.
 - 🧪 I review behavior, test the product, and validate results.
-- 📚 Important decisions are documented so the project remains understandable beyond any single AI session.
 
 > **AI accelerates the work. I remain responsible for what gets built and whether it is correct.**
 
