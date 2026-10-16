@@ -8,11 +8,14 @@ I'm a Diploma CSE student building software-engineering skills through **problem
 
 I don't try to make my profile look bigger than it is. I prefer to show **what I have actually explored, used, and can demonstrate through my work**.
 
+🌐 **[Explore my Mahesh Babu Portfolio repository](https://github.com/BoyidapuMaheshBabu/mahesh-babu-portfolio)** — a React + Vite portfolio project featuring my engineering journey, selected projects, and a read-only GitHub source explorer. It is currently intended for local development and testing, not deployment.
+
 ## 🚀 Projects & Product Work
 
 | Project | Focus | Status |
 |---|---|---|
 | [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Offline-first Android student finance app | **Current product** |
+| [Mahesh Babu Portfolio](https://github.com/BoyidapuMaheshBabu/mahesh-babu-portfolio) | React + Vite portfolio with a read-only GitHub source explorer | In progress |
 | [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Exploration |
 | [Jujutsu Kaisen Explorer](https://github.com/BoyidapuMaheshBabu/jjk) | My first website and frontend learning project | **Completed learning project** |
 | [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original TermRunway web prototype | Historical / Archived |
