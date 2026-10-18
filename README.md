@@ -23,7 +23,7 @@ I don't try to make my profile look bigger than it is. I prefer to show **what I
 
 A personal reasoning practice repository focused on **independent Python problem solving**. Each problem records the question, approach, solution, concepts used, improvements, and lessons learned.
 
-> ⏸️ **Temporarily paused** — I am currently concentrating my learning and engineering effort on TermRunway. The practice is not discontinued and will be resumed after the current TermRunway development cycle.
+> 🟢 **Active again** — problem-solving practice has restarted alongside TermRunway. I am returning to independent Python problem solving to strengthen logical reasoning, implementation, testing, debugging, and reflection. New commits will document progress as the work is completed.
 
 ## Skills & Technologies
 
@@ -61,8 +61,8 @@ AI is part of my development workflow as an **accelerator and learning assistant
 
 ## 🎯 Current Focus
 
-Right now, my main focus is **building and validating TermRunway** while continuing to develop my programming reasoning through practical work.
+Right now, my focus is **building and validating TermRunway while resuming structured Python problem-solving practice**. I am prioritizing deeper reasoning, independent implementation, and testable evidence over the number of technologies listed.
 
-The Problem-Solving-Logic repository records the problem-solving work I have already completed and will continue to grow when I return to that practice.
+The Problem-Solving-Logic repository will document this practice through solutions, tests, debugging, and improvements as work is completed.
 
 ### Building practical software. Learning through projects. Strengthening engineering judgment. 🚀
