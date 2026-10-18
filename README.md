@@ -2,17 +2,6 @@
 
 ### Diploma CSE Student · Aspiring Software Engineer · Problem Solving · Product Building
 
-### Engineering Identity
-
-![AI-Native Software Engineer](https://img.shields.io/badge/AI--Native_Software_Engineer-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![Product Builder](https://img.shields.io/badge/Product_Builder-0B1220?style=for-the-badge&logo=rocket&logoColor=38BDF8)
-![Problem Solver](https://img.shields.io/badge/Problem_Solver-0B1220?style=for-the-badge&logo=thinkpad&logoColor=38BDF8)
-![Logical Thinker](https://img.shields.io/badge/Logical_Thinker-0B1220?style=for-the-badge&logo=lightbulb&logoColor=38BDF8)
-![Client-Side Thinker](https://img.shields.io/badge/Client--Side_Thinker-0B1220?style=for-the-badge&logo=react&logoColor=38BDF8)
-![Adaptive Problem Solver](https://img.shields.io/badge/Adaptive_Problem_Solver-0B1220?style=for-the-badge&logo=target&logoColor=38BDF8)
-
-These labels describe how I approach software work: understand the problem, reason through options, use AI as a development assistant, learn unfamiliar concepts when needed, and work toward a useful product. They are an engineering direction backed by evidence that I continue to build in my projects—not a claim that I already know every technology.
-
 > **Understand → Build → Test → Improve**
 
 I'm a Diploma CSE student building software-engineering skills through **problem solving, practical projects, and learning technologies by using them to build things**.
