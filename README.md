@@ -1,68 +1,67 @@
 # Hi, I'm Boyidapu Mahesh Babu 👋
 
-### Diploma CSE Student · Aspiring Software Engineer · Problem Solving · Product Building
+### Diploma CSE Student · AI-Native Software Engineering · Android & Web Product Building
 
-> **Understand → Build → Test → Improve**
+> **Understand → Plan → Build → Test → Improve**
 
-I'm a Diploma CSE student building software-engineering skills through **problem solving, practical projects, and learning technologies by using them to build things**.
+I'm a Diploma CSE student developing practical software-engineering skills by building useful applications, solving programming problems, and exploring modern development tools.
 
-I don't try to make my profile look bigger than it is. I prefer to show **what I have actually explored, used, and can demonstrate through my work**.
+My focus is on **AI-assisted product engineering**: understanding requirements, researching technical choices, exploring codebases, guiding implementation, reviewing changes, and validating the result through testing.
 
-## 🚀 Projects & Product Work
+I value working software and demonstrable engineering decisions over simply listing technologies.
 
-| Project | Focus | Status |
+## 🚀 Featured Projects
+
+| Project | What it does | Status |
 |---|---|---|
-| [TermRunway Android](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Offline-first Android student finance app | **Current product** |
-| [RESUP](https://github.com/BoyidapuMaheshBabu/RESUP) | Resume & career workspace prototype | Exploration |
-| [Jujutsu Kaisen Explorer](https://github.com/BoyidapuMaheshBabu/jjk) | My first website and frontend learning project | **Completed learning project** |
-| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original TermRunway web prototype | Historical / Archived |
+| [**IntiVentory**](https://github.com/BoyidapuMaheshBabu/HomeStock-Android) | Offline-first native Android app for household inventory and spending tracking | **Core app implemented and physically tested** |
+| [**TermRunway Android**](https://github.com/BoyidapuMaheshBabu/TermRunway-Android) | Offline-first Android student finance planner | **Built and tested** |
+| [Jujutsu Kaisen Explorer](https://github.com/BoyidapuMaheshBabu/jjk) | My first website and frontend learning project | Completed learning project |
+| [TermRunway-Web](https://github.com/BoyidapuMaheshBabu/TermRunway-Web) | Original web prototype for TermRunway | Historical prototype |
 
 ## 🧠 Problem Solving & Programming Practice
 
 **[Problem-Solving-Logic](https://github.com/BoyidapuMaheshBabu/Problem-Solving-Logic)**
 
-A personal reasoning practice repository focused on **independent Python problem solving**. Each problem records the question, approach, solution, concepts used, improvements, and lessons learned.
+A personal repository for independent Python problem solving. I document the problem, my approach, implementation, concepts used, improvements, and lessons learned.
 
-> 🟢 **Active again** — problem-solving practice has restarted alongside TermRunway. I am returning to independent Python problem solving to strengthen logical reasoning, implementation, testing, debugging, and reflection. New commits will document progress as the work is completed.
+My goal is to strengthen logical reasoning and become more confident at solving problems independently—not just relying on generated code.
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-I prefer to show skills based on **real usage and demonstrated work**, not just because a technology appears somewhere in a project.
+I describe technologies based on how I have actually used them in academic work, experiments, and projects.
 
-| Technology | How I use it |
+| Technology / Area | Practical use |
 |---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Hands-on problem solving and programming practice |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Academic programming and OOP practice |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | Academic programming and core programming fundamentals |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Strong conceptual understanding and practical website building |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Used in projects for styling, layout, and responsive UI |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Used in web projects for interaction, logic, and functionality |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | Currently learning through TermRunway by building a real Android application |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Source control, branches, and project collaboration |
-| ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-6E56CF?style=flat-square&logo=openai&logoColor=white) | Used as an implementation, debugging, research, and learning accelerator |
+| **C and Java** | Academic programming, OOP practice, and core programming fundamentals |
+| **Python** | Programming practice and independent problem solving |
+| **HTML, CSS and JavaScript** | Building and improving web interfaces and interactions |
+| **Kotlin, Android and Jetpack Compose** | Native Android application development through practical projects |
+| **Git and GitHub** | Version control, branches, commits, and project collaboration |
+| **AI-assisted development** | Research, codebase exploration, implementation support, debugging, and testing workflows |
 
-> **My approach:** I explore programming languages and technologies by building projects. When a project exposes something I don't know, I learn that concept, apply it, test it, and keep improving.
+## 🤖 How I Work with AI
 
-## 🧭 How I Work
+I use AI as an engineering tool and learning accelerator—not as a replacement for understanding or validation.
 
-**Problem → Research → Decide → Build → Test → Review → Improve**
+- **I define the problem:** clarify requirements, constraints, and expected behavior.
+- **I guide the process:** choose suitable tools, provide relevant context, and review implementation decisions.
+- **I validate the result:** inspect code, test functionality, debug issues, and check behavior on real devices.
 
-I prefer building around a real problem, understanding unfamiliar concepts when they become necessary, and validating the result instead of learning technologies only through tutorials.
+> **AI can accelerate implementation. Engineering judgment and responsibility remain mine.**
 
-## 🤖 AI-Assisted Development
+## 🧭 My Development Workflow
 
-AI is part of my development workflow as an **accelerator and learning assistant**.
+**Problem → Research → Plan → Build → Test → Review → Improve**
 
-- 🧠 I define problems and make product decisions.
-- 🛠️ AI assists with implementation, debugging, research, and iteration.
-- 🧪 I review behavior, test the product, and validate results.
-
-> **AI accelerates the work. I remain responsible for what gets built and whether it is correct.**
+I prefer learning concepts when a real project requires them, applying that knowledge, and checking whether the result actually works.
 
 ## 🎯 Current Focus
 
-Right now, my focus is **building and validating TermRunway while resuming structured Python problem-solving practice**. I am prioritizing deeper reasoning, independent implementation, and testable evidence over the number of technologies listed.
+My current focus is building and improving practical Android applications, especially **IntiVentory and TermRunway**, while strengthening independent programming and problem-solving fundamentals.
 
-The Problem-Solving-Logic repository will document this practice through solutions, tests, debugging, and improvements as work is completed.
+I'm also exploring AI-native software engineering workflows to understand how developers can use different AI tools effectively across planning, implementation, debugging, and testing.
 
-### Building practical software. Learning through projects. Strengthening engineering judgment. 🚀
+---
+
+### Building practical software. Learning through experimentation. Growing as an engineer. 🚀
