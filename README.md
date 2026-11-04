@@ -1,6 +1,6 @@
 # Hi, I'm Boyidapu Mahesh Babu 👋
 
-### Diploma CSE Student · AI-Native Software Engineering · Android & Web Product Building
+### Diploma CSE Student · Aspiring AI-Native Software Engineer
 
 > **Understand → Plan → Build → Test → Improve**
 
