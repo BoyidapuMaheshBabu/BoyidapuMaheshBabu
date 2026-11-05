@@ -26,17 +26,15 @@ I value demonstrable results and sound engineering decisions over simply listing
 
 The goal is to strengthen independent reasoning and programming fundamentals—not simply to produce working code.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages:** C · Java · Python · JavaScript
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,kotlin,androidstudio,git,github&perline=10" alt="Technology and development tool icons" />
+  </a>
+</p>
 
-**Web:** HTML · CSS · JavaScript
-
-**Android:** Kotlin · Jetpack Compose
-
-**Workflow:** Git · GitHub · AI-assisted development
-
-I have different levels of experience across these technologies. I strengthen them through coursework, independent exercises, and project implementation.
+These icons represent tools I have used in coursework and projects. My experience varies across them, and I'm continuing to strengthen the fundamentals through hands-on work.
 
 ## 🤖 How I Use AI
 
