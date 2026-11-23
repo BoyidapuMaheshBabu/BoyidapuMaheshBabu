@@ -63,7 +63,7 @@ I'm also interested in AI agents, LLM applications, MCP, and tool integrations.
 
 ## 🔄 How I Learn and Build
 
-**Explore → Understand → Plan → Build → Test → Review → Improve**
+**Explore ⟶ Understand ⟶ Plan ⟶ Build ⟶ Test ⟶ Review ⟶ Improve**
 
 I prefer learning concepts in context, experimenting with tools, and bringing what I learn together in practical projects.
 
